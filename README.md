@@ -1,2 +1,1 @@
-Meu primeiro sistema no git alterado e atualizado
-Outra alteração mais legal
+Meu primeiro sistema no GIT (alterado e atualizado)
